@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/armanhasan66378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@armanhasan66378" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md-arman-hasan-57a188266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-arman-hasan-57a188266" height="30" width="40" /></a>
-<a href="https://instagram.com/learn_with_arman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="learn_with_arman" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/learn_with_arman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="learn_with_arman" height="30" width="40" /></a> -->
 <a href="https://www.youtube.com/c/learnwitharman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learn with arman" height="30" width="40" /></a>
 </p>
 
